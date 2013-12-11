@@ -1,3 +1,4 @@
+/* _*_ coding: utf-8 filetype: rust _*_ */
 fn main() {
    println("Hello World!");
 /*
